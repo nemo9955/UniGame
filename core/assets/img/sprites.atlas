@@ -1,0 +1,290 @@
+
+sprites.png
+size: 808,559
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Fire
+  rotate: false
+  xy: 1, 1
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Forest
+  rotate: false
+  xy: 473, 430
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+ForestPath
+  rotate: false
+  xy: 113, 1
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Grass
+  rotate: false
+  xy: 473, 300
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+GrassQuick
+  rotate: false
+  xy: 585, 430
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Mountain
+  rotate: false
+  xy: 225, 1
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+MountainQuick
+  rotate: false
+  xy: 473, 170
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+PathQuick
+  rotate: false
+  xy: 585, 300
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Preview
+  rotate: false
+  xy: 1, 131
+  size: 470, 427
+  orig: 470, 427
+  offset: 0, 0
+  index: -1
+Rock
+  rotate: false
+  xy: 697, 430
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Sand
+  rotate: false
+  xy: 337, 1
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+SandQuick
+  rotate: false
+  xy: 585, 170
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Swamp
+  rotate: false
+  xy: 697, 300
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Water
+  rotate: false
+  xy: 697, 170
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+WaterQuick
+  rotate: false
+  xy: 449, 1
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+WaterQuick2
+  rotate: false
+  xy: 561, 40
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+
+sprites2.png
+size: 509,139
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IGpause
+  rotate: false
+  xy: 103, 74
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+buton_down
+  rotate: false
+  xy: 169, 12
+  size: 60, 60
+  split: 14, 15, 11, 11
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+buton_over
+  rotate: false
+  xy: 231, 12
+  size: 60, 60
+  split: 14, 16, 13, 16
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+buton_up
+  rotate: false
+  xy: 235, 78
+  size: 60, 60
+  split: 14, 16, 14, 16
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+checked
+  rotate: false
+  xy: 459, 41
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+element1
+  rotate: false
+  xy: 293, 16
+  size: 60, 60
+  split: 12, 14, 14, 16
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+element2
+  rotate: false
+  xy: 297, 78
+  size: 60, 60
+  split: 14, 16, 14, 16
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+knobST
+  rotate: false
+  xy: 355, 26
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+leftST
+  rotate: false
+  xy: 359, 88
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+midST
+  rotate: false
+  xy: 407, 36
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+mover-bg
+  rotate: false
+  xy: 1, 38
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mover-knob
+  rotate: false
+  xy: 1, 10
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+notification
+  rotate: false
+  xy: 103, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pix100
+  rotate: false
+  xy: 4, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix100blue
+  rotate: false
+  xy: 4, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix100green
+  rotate: false
+  xy: 4, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix100red
+  rotate: false
+  xy: 7, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix30
+  rotate: false
+  xy: 1, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix50
+  rotate: false
+  xy: 1, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pix80
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rightST
+  rotate: false
+  xy: 411, 88
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+unchecked
+  rotate: false
+  xy: 463, 93
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+vCenter_small
+  rotate: false
+  xy: 169, 74
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
